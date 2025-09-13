@@ -1,2 +1,3 @@
 # curly-carnival
-This is my github repository
+This is my Github Repository.
+Author - Pragati Mishra
